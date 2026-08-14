@@ -16,48 +16,18 @@ Building web applications, parking management systems, REST APIs, SQL Server sol
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,nodejs,ts,express" />
 </p>
 
-- C#
-- .NET
-- ASP.NET Core
-- NestJS
-- Node.js
-- TypeScript
-- Express.js
-- REST API
-- WebSockets
-- Socket.IO
-- JWT Authentication
-
----
-
 ### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vite" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap
-- Vite
-- EJS
-
----
 
 ### 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
-- SQL Server
-- TypeORM
-- Entity Framework
-- Stored Procedures
-- Query Optimization
-- Database Design
-- T-SQL
 
 ---
 
@@ -67,9 +37,6 @@ Building web applications, parking management systems, REST APIs, SQL Server sol
 <img src="https://skillicons.dev/icons?i=androidstudio,electron" />
 </p>
 
-- Cordova
-- Android Studio
-- Electron
 
 ---
 
@@ -78,14 +45,6 @@ Building web applications, parking management systems, REST APIs, SQL Server sol
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker" />
 </p>
-
-- Git
-- GitHub
-- Visual Studio
-- VS Code
-- Docker
-- Postman
-- IIS
 
 ---
 
